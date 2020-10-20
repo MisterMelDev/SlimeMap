@@ -1,0 +1,5 @@
+name: SlimeMap
+author: MisterMel
+version: 1.0.0
+main: tech.mistermel.slimemap.SlimeMap
+api-version: 1.13
