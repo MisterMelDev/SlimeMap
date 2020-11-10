@@ -17,7 +17,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class SlimeMap extends JavaPlugin {
 
 	public static final String ITEM_NAME = ChatColor.GOLD + "Slime Map";
-	public static final List<String> ITEM_LORE = Arrays.asList(ChatColor.WHITE + "Functions like a regular map, exept", ChatColor.WHITE + "it shows you where slime chunks are located.");
+	public static final List<String> ITEM_LORE = Arrays.asList(ChatColor.WHITE + "Functions like a regular map, except", ChatColor.WHITE + "it shows you where slime chunks are located.");
 	
 	private static SlimeMap instance;
 	
